@@ -1,0 +1,153 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    text-align: center;
+    background-color: brown;
+    padding: 10px;
+    margin-bottom: 0px;
+    color: rgb(0, 0, 0);
+}
+header:hover{
+    color:rgba(255, 255, 255, 0.874);
+    cursor: pointer;
+
+}
+footer{
+    background-color: brown;
+    padding:10px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+
+}
+
+.stik{
+    position:sticky;top:0px;
+    text-align: center;
+    z-index: 1px;
+
+}
+#hed{
+    font-size: 50px;
+    margin-top: 0px;
+    font-family: 'Wallpoet', cursive;
+}
+#hed2
+
+{
+    background-color: rgb(165, 42, 42);
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+  
+    font-family: 'EB Garamond', serif;
+}
+.main{
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.main2{
+    padding: 20px;
+
+}
+.agree{
+    font-family: 'EB Garamond', serif;
+    font-size: 30px;
+}
+#c1{
+    font-family: 'Dancing Script', cursive;
+}
+table{
+    border: 2px black solid;
+    padding: 20px;
+    margin-left: 180px;
+    margin-right: 180px ;
+}
+p{
+    text-align: justify;
+}
+.gallery{
+    background-color: rgba(255, 255, 255, 0.181);
+    border-radius: 30px;
+    padding: 30px;
+    border: 4px rgba(165, 42, 42, 0.721) ridge;
+}
+.im:hover{
+    width:70%;
+    cursor: pointer;
+}
+.types{
+    padding: 30px;
+}
+li{
+    font-family: 'PT Mono', monospace;
+    text-align: justify;
+}
+form{
+    background-color: brown;
+    padding: 50px;
+    margin-left:280px;
+    margin-right: 280px;
+    border: 4px black solid;
+    border-radius: 20px;
+}
+p{
+    font-family: 'PT Mono', monospace;
+}
+.hhed{
+    font-family: 'EB Garamond', serif;
+
+}
+.foot{
+    color: black;
+    float: left;
+
+    padding: 30px;
+    margin-left: 250px;
+}
+.bpic{
+    padding: 80px;
+    margin-left: 10px;
+}
+#bpic1{
+    float: left;
+}
+#bpic2{
+    float: right;
+}
+.brands{
+    padding: 60px;
+}
+.one{
+margin-top: 50px;
+margin-right: 70px;
+margin-left: 370px;
+}
+.three{
+    margin-top: 50px;
+    margin-right: 70px;
+    margin-left: 370px;
+    }
+.two{
+
+    margin-right: 370px;
+}
+img:hover{
+    -webkit-filter:brightness(150%);
+}
+button{
+    background-color: beige;
+    width: 10%;
+    height: 5%;
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+}
+button:hover{
+    opacity:.7;
+    cursor: pointer;
+}
